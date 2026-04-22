@@ -260,7 +260,7 @@ body {
 .partie4 {
     /* border: 2px solid gold; */
     width: 90%;
-    height: 750px;
+    height: 850px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -270,7 +270,7 @@ body {
 .rect6 {
     /* border: 2px solid green; */
     width: 30%;
-    height: 350px;
+    height: 400px;
     margin: 0 auto;
     background-color: white;
     border-radius: 14px;
